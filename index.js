@@ -33,7 +33,7 @@ function printRental(rental) {
     let amount = ""
     if (rental.large > 0) amount += "L x " + rental.large + " "
     if (rental.medium > 0) amount += "M x " + rental.medium + " "
-    if (rental.small > 0) amount += "L x " + rental.small + " "
+    if (rental.small > 0) amount += "S x " + rental.small + " "
 
     console.log(rental)
     console.log(amount)

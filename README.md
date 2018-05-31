@@ -10,27 +10,27 @@ Large          15        12$
 <pre>
 1
 { small: 1, medium: 0, large: 0, cost: 5 }
-L x 1
+S x 1
 Total = 5$
 
 2
 { small: 1, medium: 0, large: 0, cost: 5 }
-L x 1
+S x 1
 Total = 5$
 
 3
 { small: 1, medium: 0, large: 0, cost: 5 }
-L x 1
+S x 1
 Total = 5$
 
 4
 { small: 1, medium: 0, large: 0, cost: 5 }
-L x 1
+S x 1
 Total = 5$
 
 5
 { small: 1, medium: 0, large: 0, cost: 5 }
-L x 1
+S x 1
 Total = 5$
 
 6
