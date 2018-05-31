@@ -1,6 +1,4 @@
-# car-rental-program
-
-Car Rental Program<br/>
+# Car Rental Program
 
 <pre>
 Size        Seats       Cost
